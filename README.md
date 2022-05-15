@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+#### About Me
+- 🔭 I'm a first-year master's student at Hokkaido University.
+- 🌱 I'm currentl learning machine learning, infomation science.
+- ⚡ I enjoy kaggle.
+
+#### Links
+* [Kaggle](https://www.kaggle.com/rsobtt)
+* [Lab](https://sites.google.com/elms.hokudai.ac.jp/intelligent-software-lab/)
+
 <!--
 **rsobt/rsobt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
