@@ -5,7 +5,16 @@
 - 🌱 I'm currentl learning machine learning, infomation science.
 - ⚡ I enjoy kaggle.
 
-#### Links
+#### 🛠 Tech Stack
+- 応用情報技術者
+- Python, torch, Selenium, etc...
+- git, Markdown
+
+#### 🚗 Vehicle
+- 普通自動車免許
+- 小型1級船舶免許
+
+#### 🔗 Links
 * [Kaggle](https://www.kaggle.com/rsobtt)
 * [Lab](https://sites.google.com/elms.hokudai.ac.jp/intelligent-software-lab/)
 
