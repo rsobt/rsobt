@@ -9,6 +9,7 @@
 - 応用情報技術者
 - Python, torch, Selenium, etc...
 - git, Markdown
+- GPU server, NetWork
 
 #### 🚗 Vehicle
 - 普通自動車免許
