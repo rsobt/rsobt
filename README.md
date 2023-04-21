@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 #### About Me
-- 🔭 I'm a first-year master's student at Hokkaido University.
+- 🔭 I'm a second-year master's student at Hokkaido University.
 - 🌱 I'm currentl learning machine learning, infomation science.
-- ⚡ I enjoy kaggle.(Expert, silver:2)
+- ⚡ I enjoy kaggle.(Expert, silver:2 bronze:1)
 
 #### 🛠 Tech Stack
 - 応用情報技術者
